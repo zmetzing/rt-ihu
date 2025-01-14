@@ -1,0 +1,11 @@
+This repo holds the physical design files for the:
+
+     Radiation Tolerant Internal Housekeeping Unit (RT-IHU)
+
+The directory hierarchy is as follows:
+
+pcb/<name>              Schematic and layout files for <name> board
+kicad_lib               Symbol and footprint libraries for KiCAD
+docs                    Design documentation for the supervisor
+
+Z. Metzinger 14-Jan-2025
